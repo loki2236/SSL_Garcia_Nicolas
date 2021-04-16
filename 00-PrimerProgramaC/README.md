@@ -1,5 +1,5 @@
 ## Detalles del ejercicio a desarrollar
-En esta carpeta encontraran resuelto el ejercicio 20 y 21 del volumen 1 del libre de Muchnik.
+En esta carpeta encontraran resuelto el ejercicio 20 y 21 del volumen 1 del libro de Muchnik.
 
 El ejercicio en si planteaba:
 
