@@ -1,0 +1,44 @@
+Ingrese una cadena (Enter para finalizar): Comenzando procesamiento de Token: 
+Analizando cadena: 4+4 
+Loop 0: cima_pila[$] estado[1] - Caracter [4] - Grupo[1]
+Loop 1: cima_pila[$] estado[0] - Caracter [+] - Grupo[2]
+Loop 2: cima_pila[$] estado[1] - Caracter [4] - Grupo[1]
+Cadena reconocida correctamente, estado final: 1
+Ingrese una cadena (Enter para finalizar): Comenzando procesamiento de Token: 
+Analizando cadena: 444+4 
+Loop 0: cima_pila[$] estado[1] - Caracter [4] - Grupo[1]
+Loop 1: cima_pila[$] estado[1] - Caracter [4] - Grupo[1]
+Loop 2: cima_pila[$] estado[1] - Caracter [4] - Grupo[1]
+Loop 3: cima_pila[$] estado[0] - Caracter [+] - Grupo[2]
+Loop 4: cima_pila[$] estado[1] - Caracter [4] - Grupo[1]
+Cadena reconocida correctamente, estado final: 1
+Ingrese una cadena (Enter para finalizar): Comenzando procesamiento de Token: 
+Analizando cadena: 1+7 
+Loop 0: cima_pila[$] estado[1] - Caracter [1] - Grupo[1]
+Loop 1: cima_pila[$] estado[0] - Caracter [+] - Grupo[2]
+Loop 2: cima_pila[$] estado[1] - Caracter [7] - Grupo[1]
+Cadena reconocida correctamente, estado final: 1
+Ingrese una cadena (Enter para finalizar): Comenzando procesamiento de Token: 
+Analizando cadena: 1+8 
+Loop 0: cima_pila[$] estado[1] - Caracter [1] - Grupo[1]
+Loop 1: cima_pila[$] estado[0] - Caracter [+] - Grupo[2]
+Loop 2: cima_pila[$] estado[1] - Caracter [8] - Grupo[1]
+Cadena reconocida correctamente, estado final: 1
+Ingrese una cadena (Enter para finalizar): Comenzando procesamiento de Token: 
+Analizando cadena: ++ 
+Loop 0: cima_pila[$] estado[4] - Caracter [+] - Grupo[2]
+Cadena NO reconocida, estado final: 4
+Ingrese una cadena (Enter para finalizar): Comenzando procesamiento de Token: 
+Analizando cadena: 1++1 
+Loop 0: cima_pila[$] estado[1] - Caracter [1] - Grupo[1]
+Loop 1: cima_pila[$] estado[0] - Caracter [+] - Grupo[2]
+Loop 2: cima_pila[$] estado[4] - Caracter [+] - Grupo[2]
+Cadena NO reconocida, estado final: 4
+Ingrese una cadena (Enter para finalizar): Comenzando procesamiento de Token: 
+Analizando cadena: 1+1+ 
+Loop 0: cima_pila[$] estado[1] - Caracter [1] - Grupo[1]
+Loop 1: cima_pila[$] estado[0] - Caracter [+] - Grupo[2]
+Loop 2: cima_pila[$] estado[1] - Caracter [1] - Grupo[1]
+Loop 3: cima_pila[$] estado[0] - Caracter [+] - Grupo[2]
+Cadena NO reconocida, estado final: 0
+Ingrese una cadena (Enter para finalizar): 
